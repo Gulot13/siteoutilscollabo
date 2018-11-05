@@ -2,3 +2,16 @@ main
 {
     margin-top:46px;
 }
+
+#imgUp
+{
+    background-image: url(http://2.bp.blogspot.com/-33QddB4lmmM/UMLR27T7d4I/AAAAAAAAAFg/klDRuxCtU7A/s1600/34a27c4693561ebeaf00a1625978f7f6_large.jpeg);
+    height: 500px;
+    background-size: cover;
+    background-position-y: center;
+}
+
+#console
+{
+    background-image: url(https://images7.alphacoders.com/416/thumb-1920-416822.jpg);
+}
